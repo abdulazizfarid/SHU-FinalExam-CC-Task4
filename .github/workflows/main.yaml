@@ -39,3 +39,4 @@ jobs:
         run: |
           eb init -i reactapp -k assignment-02-kp -p Docker --region us-east-1
           eb deploy Reactapp-env --version reactapp-v1
+
